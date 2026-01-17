@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ - 🌱 I'm a senior math student at Tulane University
+     - I'm hoping to go to grad school for math next year  
+ - 🔭 I like combinatorics and algebraic geometry
+     - I also like looking at birds!
 <!--
 **huddellj/huddellj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
